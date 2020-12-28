@@ -12,8 +12,8 @@ const char* host_name = "esp-tally";
 const int led = 2;    //D4 wemos mini also on board led
 #define LED_PIN    15   //D8 wemos mini for NeoPixel
 #define LED_COUNT 10
-// group[x][2] x is number of groups
 
+// group[x][2] x is number of groups
 int group[2][2] = {{0,5},{5,5}}; //{start,count} for each group
 
 // Web server port
