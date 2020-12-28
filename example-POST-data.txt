@@ -1,0 +1,24 @@
+Tally POST Data for Arduino 
+
+--Group 1
+
+ON RED
+led=ON&red=255&green=0&blue=0&group=1
+
+
+ON GREEN
+led=ON&red=0&green=255&blue=0&group=1
+
+OFF 
+led=OFF&group=1
+
+—Group 2
+
+ON RED
+led=ON&red=255&green=0&blue=0&group=2
+
+ON GREEN
+led=ON&red=0&green=255&blue=0&group=2
+
+OFF
+led=OFF&group=2
